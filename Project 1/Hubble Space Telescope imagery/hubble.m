@@ -1,4 +1,3 @@
-% CS194-26 (cs219-26): Project 1, starter Matlab code
 clc;
 clear;
 
